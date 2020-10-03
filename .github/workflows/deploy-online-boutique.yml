@@ -6,7 +6,7 @@ on:
     inputs:
       workflowAction:
         description: 'Action'
-        default: 'Deploy Online Boutique'
+        default: 'Deploy Online Boutique 2'
         required: true
  
 env:
